@@ -1,5 +1,5 @@
 ---
-title: Obrazy Rozpoznawanie
+title: imagine classifier
 emoji: 📊
 colorFrom: gray
 colorTo: indigo
